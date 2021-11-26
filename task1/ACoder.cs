@@ -61,7 +61,6 @@ namespace task1
             }
             return result;
         }
-
         public string Encode(string input)
         {
             string result = "";

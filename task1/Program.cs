@@ -6,7 +6,8 @@ namespace task1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BCoder coderB = new BCoder();
+            string decoded = coderB.Decode("яанфлкаров");
         }
     }
 }
